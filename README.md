@@ -1,6 +1,6 @@
 # PythonConsole
 
-PythonConsole is a Cadwork 3D plugin presents an interactive Python REPL with CwAPI3D.
+PythonConsole is a Cadwork 3D plugin that presents an interactive Python REPL with CwAPI3D.
 
 ## Installation
 
